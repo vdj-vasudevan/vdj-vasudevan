@@ -4,7 +4,7 @@
 - 🔭 I’m currently working an Internship in Analytics Vidhya
 - 🌱 I’m currently learning Python for DataScience
 - 👯 I’m looking to collaborate on Machine Learing Projects and Data Analysis Projects
-- 🤔 I’m looking for help with Python Related Programming
+- 🤔 I’m looking for help with  Advanced Python Related Programming
 - 📫 How to reach me:vasu_devan_skj@gmail.com
 
 

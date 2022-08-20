@@ -1,8 +1,10 @@
 ### Hi there 👋, I'm VasuDevan.S
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vdj-vasudevan&label=Profile%20views&color=0e75b6&style=flat" alt="vdj-vasudevan" /> </p>
 
 - 🔭 I’m currently working an Internship in Analytics Vidhya
 - 🌱 I’m currently Building Machine Learning models using Python for DataScience
 - 👯 I’m looking to collaborate on Machine Learing Projects and Data Analysis Projects
+- 📚 I'm currently practicing PySpark on Bigdata  
 - 🤔 I’m looking for help with Natural language processing
 - 📫 How to reach me:vasu_devan_skj@gmail.com
 - 📄 Check out my PortFolio : https://vdj-vasudevan.github.io/

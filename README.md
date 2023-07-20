@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm VasuDevan.S
 
-- 🔭 I’m currently working an Software Developement Engineer at Freightify 
+- 🔭 I’m currently working an Software Development Engineer  at Freightify 
 - 🌱 I’m currently Building Machine Learning models using Python for DataScience
 - 👯 I’m looking to collaborate on Machine Learing Projects and Data Analysis Projects
 - 📚 I'm currently practicing PySpark on Bigdata  

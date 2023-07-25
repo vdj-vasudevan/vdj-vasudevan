@@ -3,8 +3,7 @@
 - 🔭 I’m currently working an Software Development Engineer  at Freightify 
 - 🌱 I’m currently Building Machine Learning models using Python for DataScience
 - 👯 I’m looking to collaborate on Machine Learing Projects and Data Analysis Projects
-- 📚 I'm currently practicing PySpark on Bigdata  
-- 🤔 I’m looking for help with Natural language processing
+- 📚 I'm currently practicing Natural language processing and Image Processing using CV
 - 📫 How to reach me:vasu_devan_skj@gmail.com
 - 📄 Check out my PortFolio : https://vdj-vasudevan.github.io/
 

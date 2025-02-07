@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on Machine Learing Projects and Data Analysis Projects
 - 📚 I'm currently practicing Natural language processing and Image Processing using CV
 - 📫 How to reach me:vasu_devan_skj@gmail.com
-- 📄 Check out my PortFolio : https://vdj-vasudevan.github.io/
 
 
 <h3 align="left">Connect with me:</h3>
